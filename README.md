@@ -1,5 +1,7 @@
 # CS2 Anti-Flashbang
 
+# I will try my best to keep it up to date with the latest offsets
+
 ## Description
 
 Simple anti flashbang program in c++
