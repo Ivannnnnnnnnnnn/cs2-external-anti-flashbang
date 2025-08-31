@@ -17,5 +17,4 @@ Simple anti flashbang program in c++
 - **Game**: Counter-Strike 2 (CS2)
 - **Compiler**: Visual Studio 2022 or higher
 - **Libraries**:
-    - **DirectX** for game rendering interaction
     - **Windows API** for process and memory manipulation
