@@ -1,6 +1,6 @@
 # CS2 Anti-Flashbang
 
-# I will try my best to keep it up to date with the latest offsets
+# Outdated offsets so update them!
 
 ## Description
 
