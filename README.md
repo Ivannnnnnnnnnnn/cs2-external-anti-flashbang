@@ -1,6 +1,8 @@
 # CS2 Anti-Flashbang
 
-# Outdated offsets so update them!
+# Outdated offsets so update them at this link!
+
+https://github.com/a2x/cs2-dumper/tree/main/output
 
 ## Description
 
