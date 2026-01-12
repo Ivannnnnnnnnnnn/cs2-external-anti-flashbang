@@ -74,8 +74,8 @@ int main()
         return 1;
     }
 
-    const DWORD dwLocalPlayerPawn = 0x184C0D0;
-    const DWORD m_flFlashBangTime = 0x13F8;
+    const DWORD dwLocalPlayerPawn = 0x1BEEF28;
+    const DWORD m_flFlashBangTime = 0x15FC;
 
     while (true)
     {
@@ -101,3 +101,4 @@ int main()
     CloseHandle(hProcess);
     return 0;
 }
+
